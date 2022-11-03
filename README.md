@@ -1,7 +1,7 @@
 # pseudoPyFlowChart
-create chart using pseudo code python based!
+Create chart using pseudo code python based!
 <img src="flowchart.png" width="629" height="500">
-## notes for me to update and use.
+## Notes to update and use.
 
 These notes are to be used to implement per Mugilan and maybe used and developed to incorporate into a second flowchart generator in C#
 
@@ -30,8 +30,6 @@ Next, clone this project onto your system.
 ## Writing the Pseudocode
 
 The Pseudocode is entered into a .txt file. It follows strict rules which must be obeyed
-
-<img src="enter.png" alt="alt text">
 
 ### Rules
 
@@ -137,5 +135,5 @@ This image contains the created flowchart which can be shared, printed, etc. Its
 If you are having issues, please let me know. You can contact me at tradexy@gmail.com
 
 ## Python to Pseudo convertor 
-credit to Mugilan Ganesan 
+Credit to Mugilan Ganesan 
 Use https://replit.com/@tradexy/CAIE-Python2Pseudocode to convert python to pseudo code. Need to optimise as only works on simple to medium python code, not complex.
